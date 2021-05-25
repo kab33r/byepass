@@ -12,7 +12,7 @@ It can also be used to compare responses on verious conditions as shown in the b
 - Use of multiple known Bypasses for 403 with the help of curl
 
 # Installation
-   * `git clone https://github.com/kab33r/byepass`
+   * `git clone https://github.com/kab33r/byepass.git`
    * `cd byepass`
    * `chmod +x byepass.sh`
 
