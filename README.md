@@ -1,6 +1,6 @@
 # byepass
--A simple bash script made to check for 403 bypasses with the help of curl commands
--It can be used to check if there's a 200 OK status code in one of the provided payloads 
+-A simple bash script made to check for 403 bypasses with the help of curl commands and comparing status code for provided payloads
+ 
 -![](poc.png)
 
 # Usage
